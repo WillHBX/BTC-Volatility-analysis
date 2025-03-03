@@ -41,8 +41,8 @@
 
 ### 資料遺失問題
 
-- 圖一，2021-05-19 13:30:00 BNB （漲29%） ![Alt text](image-1.png)
-- 圖二，2023-01-02 06:45:00	SOL （漲20%） ![Alt text](image-2.png)
+- 圖一，2021-05-19 13:30:00 BNB （漲29%） ![Alt text]fig/(image-1.png)
+- 圖二，2023-01-02 06:45:00	SOL （漲20%） ![Alt text](fig/image-2.png)
 
 <div>
 <style scoped>
@@ -177,22 +177,21 @@ $$
 #### BTCUSDT分析圖表
 ##### 週間分析
 - 圖三，週間日平均波動   
-  ![週間日波動](image-3.png)  
+  ![週間日波動](fig/image-3.png)  
 - 圖四，週間15m報酬分布   
-    ![週間15m報酬分布](image-6.png)  
+    ![週間15m報酬分布](fig/image-6.png)  
   
-    ~~從圖三可看出，週五的波動度明顯較其他平日更高，推測是因為週期貨與週選擇權的交割導致價格波動的產生，也因此，週五的成交量相較其他天並無明顯增加。~~  
 
     週六週日的波動度與成交量明顯低於平日，推測是因為各國期貨外匯市場假日休盤，導致**市場在假日時較缺乏流動性**。以盒鬚圖（Box plot）觀察15m級別價格波動的分布，平日的15m波動平均在0.6%左右，假日則是低於0.5%。
 
 ---  
 
 - 圖五，週間15m平均成交量  
-  ![週間15m平均成交量](image-4.png)  
+  ![週間15m平均成交量](fig/image-4.png)  
   由圖五可看出，除了波動以外，假日的成交量也明顯不及平日，推測原因與上述相同。  
 
 - 圖六，週間15m單筆平均成交量  
-  ![週間15m單筆平均成交量](image-5.png)  
+  ![週間15m單筆平均成交量](fig/image-5.png)  
   有趣的是，將圖五與圖六一起分析，會發現單筆平均成交量的差異相對小很多，這表示假日的交易以小額交易為主（散戶），因此將平均過後單筆成交量的差距才會變小。側面應證了市場主力在平日交易居多。  
 
 ---
@@ -209,13 +208,13 @@ $$
 |其他| 21:00 - 23:00 | OTHERS
 
 - 圖七，不同時區1H平均波動  
-  ![不同時區1H波動](image-7.png)   
+  ![不同時區1H波動](fig/image-7.png)   
   
 - 圖八，不同時區15m平均成交量  
-  ![不同時區15m平均成交量](image-8.png)  
+  ![不同時區15m平均成交量](fig/image-8.png)  
   
 - 圖九，不同時區15m平均單筆成交量  
-  ![不同時區15m平均單筆成交量](image-9.png)  
+  ![不同時區15m平均單筆成交量](fig/image-9.png)  
     
   上圖七可觀察到，亞歐盤重疊的時候，波動度明顯較低；歐美盤重疊時，波動率明顯較高  
   
@@ -227,17 +226,17 @@ $$
 ---
 
 - 圖十，不同時區15m平均報酬分布  
-  ![不同時區15m報酬分布](image-10.png)  
+  ![不同時區15m報酬分布](fig/image-10.png)  
 
 - 圖十一，不同時區15m平均報酬分布(離群值)  
-  ![Alt text](image-14.png)  
+  ![Alt text](fig/image-14.png)  
   上圖十與圖十一可觀察到，歐美盤重疊（美盤剛開盤）與美盤時，在小級別的平均波動明顯比其他時段要大。
     也再一次應證前面所述，**我認為目前比特幣市場的主要資金與美盤的資金有較高度的重疊**。
 
 ---
 
 - 圖十二，週間不同時區平均波動比  
-  ![週間不同時區平均波動比較](image-11.png)  
+  ![週間不同時區平均波動比較](fig/image-11.png)  
 
 ---
 ### 分析結論
@@ -271,7 +270,7 @@ $$
    |Calmar|0.84|0.97|
    |Profir Factor|1.22|1.24|
 
-   ![Alt text](image-56.png)
+   ![Alt text](fig/image-56.png)
 2. 逆勢操作組合
    根據前一天日線漲跌，逆勢進場。
     ||波動分配|逆勢操作
@@ -283,7 +282,7 @@ $$
    |Calmar|0.97|1.26|
    |Profir Factor|1.24|1.35
 
-    ![Alt text](image-57.png)
+    ![Alt text](fig/image-57.png)
 
 
 
@@ -292,55 +291,55 @@ $$
 
 ### ETHUSDT 分析圖表
 ##### 週間分析
-![Alt text](image-15.png)  
-![Alt text](image-16.png)  
-![Alt text](image-17.png)  
-![Alt text](image-18.png)  
+![Alt text](fig/image-15.png)  
+![Alt text](fig/image-16.png)  
+![Alt text](fig/image-17.png)  
+![Alt text](fig/image-18.png)  
 ##### 比較日內不同市場活躍時段
-![Alt text](image-19.png)  
-![Alt text](image-20.png)  
-![Alt text](image-21.png)  
-![Alt text](image-22.png)  
-![Alt text](image-23.png)  
+![Alt text](fig/image-19.png)  
+![Alt text](fig/image-20.png)  
+![Alt text](fig/image-21.png)  
+![Alt text](fig/image-22.png)  
+![Alt text](fig/image-23.png)  
 ---
 ### XRPUSDT 分析圖表
 ##### 週間分析
-![Alt text](image-24.png)  
-![Alt text](image-25.png)  
-![Alt text](image-26.png)  
-![Alt text](image-27.png)  
-![Alt text](image-28.png)  
+![Alt text](fig/image-24.png)  
+![Alt text](fig/image-25.png)  
+![Alt text](fig/image-26.png)  
+![Alt text](fig/image-27.png)  
+![Alt text](fig/image-28.png)  
 ##### 比較日內不同市場活躍時段
-![Alt text](image-31.png)  
-![Alt text](image-32.png)  
-![Alt text](image-33.png)  
-![Alt text](image-34.png)  
-![Alt text](image-35.png)  
+![Alt text](fig/image-31.png)  
+![Alt text](fig/image-32.png)  
+![Alt text](fig/image-33.png)  
+![Alt text](fig/image-34.png)  
+![Alt text](fig/image-35.png)  
 ---
 ### BNBUSDT 分析圖表
 ##### 週間分析
-![Alt text](image-36.png)
-![Alt text](image-37.png)
-![Alt text](image-38.png)
-![Alt text](image-39.png)
-![Alt text](image-40.png)
+![Alt text](fig/image-36.png)
+![Alt text](fig/image-37.png)
+![Alt text](fig/image-38.png)
+![Alt text](fig/image-39.png)
+![Alt text](fig/image-40.png)
 ##### 比較日內不同市場活躍時段
-![Alt text](image-41.png)
-![Alt text](image-42.png)
-![Alt text](image-43.png)
-![Alt text](image-44.png)
-![Alt text](image-45.png)
+![Alt text](fig/image-41.png)
+![Alt text](fig/image-42.png)
+![Alt text](fig/image-43.png)
+![Alt text](fig/image-44.png)
+![Alt text](fig/image-45.png)
 
 ### SOLUSDT 分析圖表
 ##### 週間分析
-![Alt text](image-46.png)
-![Alt text](image-47.png)
-![Alt text](image-48.png)
-![Alt text](image-49.png)
-![Alt text](image-50.png)
+![Alt text](fig/image-46.png)
+![Alt text](fig/image-47.png)
+![Alt text](fig/image-48.png)
+![Alt text](fig/image-49.png)
+![Alt text](fig/image-50.png)
 ##### 比較日內不同市場活躍時段
-![Alt text](image-51.png)
-![Alt text](image-52.png)
-![Alt text](image-53.png)
-![Alt text](image-54.png)
-![Alt text](image-55.png)
+![Alt text](fig/image-51.png)
+![Alt text](fig/image-52.png)
+![Alt text](fig/image-53.png)
+![Alt text](fig/image-54.png)
+![Alt text](fig/image-55.png)
